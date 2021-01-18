@@ -12,7 +12,7 @@
 - **What is the name of the jam?:**
 
 	PURA GameJam, a game making competition organized by Hacettepe University IEEE in Turkey.
-- **What is the theme of this GameJam?:**
+- **What is the theme of this GameJam??:**
 
 	The GameJam's theme is: ***"Collaboration"***
 
