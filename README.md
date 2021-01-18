@@ -16,7 +16,7 @@
 
 	The GameJam's theme is: ***"Collaboration"***
 
-- **Developers / Who Are You?:**
+- **Developers / Who Are You???:**
 
 	We named ourselves **FUKA**
 	Furkan İnce -> Game Developer and Level Designer, also maked UI objects of the game.
